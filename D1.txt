@@ -1,6 +1,0 @@
-A1.txt
-B1.txt
-C1.txt
-D1.txt
-LICENSE
-README.md
